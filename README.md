@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Sonia Akhtar  
 
-🚀 **Junior DevOps Engineer | AWS Cloud | Kubernetes | Terraform | CI/CD Enthusiast**  
+🚀 **DevOps Engineer | AWS Cloud | Kubernetes | Terraform | CI/CD Enthusiast**  
 
 I’m passionate about designing, deploying, and maintaining scalable applications, automating workflows, and building reliable DevOps solutions.  
 
