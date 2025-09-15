@@ -85,8 +85,8 @@ AWS (EC2, S3, RDS, Aurora, DynamoDB, ElastiCache, VPC, IAM, CloudWatch, CloudTra
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](your-linkedin-url)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]https://www.linkedin.com/in/soniaakhtar1/  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)]soniaak.devops@gmail.com 
 
 ---
 
