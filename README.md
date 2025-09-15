@@ -8,8 +8,7 @@ I’m passionate about designing, deploying, and maintaining scalable applicatio
 
 ## 🛠️ Skills & Tools
 
-**Cloud & Infrastructure:**  
-AWS (EC2, S3, RDS, Aurora, DynamoDB, ElastiCache, VPC, IAM, CloudWatch, CloudTrail, Lambda, ECS, EKS, Route 53, CloudFront, API Gateway, Elastic Load Balancer, Auto Scaling, SQS, SNS, KMS, Secrets Manager)  
+**Cloud & Infrastructure:** AWS (EC2, S3, RDS, Aurora, DynamoDB, ElastiCache, VPC, IAM, CloudWatch, CloudTrail, Lambda, ECS, EKS, Route 53, CloudFront, API Gateway, Elastic Load Balancer, Auto Scaling, SQS, SNS, KMS, Secrets Manager)  
 
 **Containers & Orchestration:** Docker, Kubernetes, Helm  
 
